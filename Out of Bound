@@ -7,12 +7,12 @@ import java.awt.Graphics;
  *
  * @author Musaab Abbas
  */
-public class Out of Bound {
+public class Border {
     private final int x, y, width, height;
     private final static Color COLOR = Color.BLACK;
     
-    //2.a. constructor for Out of Bound
-    public Out of Bound(int x, int y, int width, int height) {
+    //2.a. constructor for Border
+    public Border(int x, int y, int width, int height) {
         this.x = x;
         this.y = y;
         this.width = width;
